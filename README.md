@@ -44,8 +44,11 @@ http://ip:8050/
 
 ## Usage
 1.Start the IDS (python app.py).
+
 2.Open the dashboard in your browser.
+
 3.Monitor real-time traffic and alerts.
+
 4.Export reports for further analysis.
 
 # Future improvements
