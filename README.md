@@ -38,6 +38,8 @@ http://127.0.0.1:8050/
 ## 📸 Screenshots
 <img width="1366" height="768" alt="loginpage" src="https://github.com/user-attachments/assets/703171b2-84b0-48a0-892d-bdc4af4cc8dd" />
 
+<img width="1366" height="768" alt="Screenshot 2025-06-10 074324" src="https://github.com/user-attachments/assets/d6cc63e0-2e59-493d-9a30-96ad2302c898" />
+
 
 ## Usage
 1.Start the IDS (python app.py).
