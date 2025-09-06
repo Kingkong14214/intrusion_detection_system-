@@ -49,6 +49,8 @@ Dynamic graphs
 
 2.Open the dashboard in your browser.
 
+3.Authenticate login page using the following credentials(admin/admin123)
+
 3.Monitor real-time traffic and alerts.
 
 4.Export reports for further analysis.
