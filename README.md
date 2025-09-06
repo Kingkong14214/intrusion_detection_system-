@@ -49,8 +49,11 @@ http://127.0.0.1:8050/
 
 # Future improvements
 🤖 AI/ML Capabilities – integrate machine learning models for smarter anomaly detection.
+
 📱 SMS/Email Notifications – send real-time alerts directly to administrators.
+
 ☁️ Cloud Support – enable distributed monitoring across multiple servers.
+
 🛡️ Signature + Anomaly Hybrid Detection – combine known attack signatures with anomaly-based detection.
 
 ## License
