@@ -30,10 +30,10 @@ cd realtime-ids
 pip install -r requirements.txt
 
 ## Run IDS
-python
+python 
 
 ## Access the Dashboard
-http://127.0.0.1:8050/
+http://ip:8050/
 
 ## 📸 Screenshots
 <img width="1366" height="768" alt="loginpage" src="https://github.com/user-attachments/assets/703171b2-84b0-48a0-892d-bdc4af4cc8dd" />
