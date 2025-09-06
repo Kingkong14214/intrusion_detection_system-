@@ -21,6 +21,40 @@ and anomaly detection work in practice.
 
 ## 🛠️ Installation
 Clone the repo:
-```bash
+
 git clone https://github.com/your-username/realtime-ids.git
 cd realtime-ids
+
+
+## Install depedencies
+pip install -r requirements.txt
+
+## Run IDS
+python
+
+## Access the Dashboard
+http://127.0.0.1:8050/
+
+## 📸 Screenshots
+
+
+## Usage
+1.Start the IDS (python app.py).
+2.Open the dashboard in your browser.
+3.Monitor real-time traffic and alerts.
+4.Export reports for further analysis.
+
+# Future improvements
+🤖 AI/ML Capabilities – integrate machine learning models for smarter anomaly detection.
+📱 SMS/Email Notifications – send real-time alerts directly to administrators.
+☁️ Cloud Support – enable distributed monitoring across multiple servers.
+🛡️ Signature + Anomaly Hybrid Detection – combine known attack signatures with anomaly-based detection.
+
+## License
+This product is licensed under MIT license
+
+
+
+
+
+
