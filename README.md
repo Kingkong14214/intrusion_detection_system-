@@ -32,7 +32,7 @@ cd intrusion_detection_system-
 pip install -r requirements.txt
 
 ## Run IDS
-python 
+python defender_id.py
 
 ## Access the Dashboard
 http://ip:8050/
