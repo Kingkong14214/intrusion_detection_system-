@@ -22,9 +22,10 @@ and anomaly detection work in practice.
 ## 🛠️ Installation
 Clone the repo:
 
-git clone https://github.com/your-username/realtime-ids.git
+git clone https://github.com/Kingkong14214/intrusion_detection_system-
 
-cd realtime-ids
+cd intrusion_detection_system-
+
 
 
 ## Install depedencies
