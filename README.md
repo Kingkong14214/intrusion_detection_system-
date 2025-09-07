@@ -35,7 +35,7 @@ pip install -r requirements.txt
 python defender_ids.py
 
 ## Access the Dashboard
-http://ip:8050/
+http://localhost:8050/
 
 ## 📸 Screenshots
 Login page
@@ -47,7 +47,7 @@ Dynamic graphs and portion of alert box
 <img width="1320" height="768" alt="githubfront" src="https://github.com/user-attachments/assets/c91a471e-72f4-4928-a004-4b2ba929fcad" />
 
 ## Usage
-1.Start the IDS (python app.py).
+1.Start the IDS (python defender_ids.py).
 
 2.Open the dashboard in your browser.
 
