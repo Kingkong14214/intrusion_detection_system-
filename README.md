@@ -43,7 +43,7 @@ Login page
 
 Dynamic graphs and portion of alert box
 
-<img width="1312" height="756" alt="githubdash" src="https://github.com/user-attachments/assets/ce5ebc36-d959-4c8f-850f-3bac9d8cf17a" />
+<img width="1320" height="768" alt="githubfront" src="https://github.com/user-attachments/assets/c91a471e-72f4-4928-a004-4b2ba929fcad" />
 
 ## Usage
 1.Start the IDS (python app.py).
