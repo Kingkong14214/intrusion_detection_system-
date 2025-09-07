@@ -1,0 +1,7 @@
+dash==3.0.4
+dash-bootstrap-components==1.6.0
+pandas==2.2.2
+scapy==2.5.0
+plotly==6.1.1
+bcrypt==4.2.0
+reportlab==4.2.2
