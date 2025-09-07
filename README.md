@@ -1,4 +1,4 @@
-# Real-Time Intrusion Detection System (IDS)
+# Real-Time Defender IDS
 
 ## 📌 Overview
 This project is a lightweight real-time intrusion detection system built using Python.  
@@ -38,11 +38,12 @@ http://ip:8050/
 
 ## 📸 Screenshots
 Login page
-<img width="1366" height="768" alt="loginpage" src="https://github.com/user-attachments/assets/703171b2-84b0-48a0-892d-bdc4af4cc8dd" />
 
-Dynamic graphs 
-<img width="1366" height="768" alt="Screenshot 2025-06-10 074324" src="https://github.com/user-attachments/assets/d6cc63e0-2e59-493d-9a30-96ad2302c898" />
+<img width="1298" height="759" alt="githubogin" src="https://github.com/user-attachments/assets/925c7fcd-1ac1-4d5d-bae3-b5a913284157" />
 
+Dynamic graphs and portion of alert box
+
+<img width="1312" height="756" alt="githubdash" src="https://github.com/user-attachments/assets/ce5ebc36-d959-4c8f-850f-3bac9d8cf17a" />
 
 ## Usage
 1.Start the IDS (python app.py).
